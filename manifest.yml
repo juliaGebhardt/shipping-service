@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: shipping-service-js-31
+  - name: shipping-service-31
     memory: 256M
     instances: 1
     env:
